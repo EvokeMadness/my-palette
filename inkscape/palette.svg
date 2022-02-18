@@ -7,7 +7,7 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg3293"
-   inkscape:export-filename="/home/allie/bitmap.png"
+   inkscape:export-filename="/home/allie/Git/my-palette/my-palette.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"
    inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
@@ -29,9 +29,9 @@
      units="px"
      width="64px"
      inkscape:snap-page="true"
-     inkscape:zoom="8.2041846"
-     inkscape:cx="40.406209"
-     inkscape:cy="42.1736"
+     inkscape:zoom="5.8012346"
+     inkscape:cx="44.214727"
+     inkscape:cy="44.645669"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -266,5 +266,12 @@
        height="2.1166668"
        x="19.049997"
        y="19.050001" />
+    <rect
+       style="fill:#9b68b5;fill-opacity:1;stroke-width:0.264583"
+       id="rect853"
+       width="2.1166668"
+       height="2.1166668"
+       x="10.583329"
+       y="14.816669" />
   </g>
 </svg>
